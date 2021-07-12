@@ -1,4 +1,4 @@
-#SOLUTIONS TO CODECHEF PROBLEMS:
+# SOLUTIONS TO CODECHEF PROBLEMS:
 ## link to codechef questions
 * [FRGTNLNG](https://www.codechef.com/problems/FRGTNLNG)
 * [CFMM](https://www.codechef.com/problems/CFMM)
