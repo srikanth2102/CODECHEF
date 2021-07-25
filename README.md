@@ -1,4 +1,5 @@
-## LINK TO QUESTIONS:
+#SOLUTIONS TO CODECHEF PROBLEMS:
+## link to codechef questions
 * [FRGTNLNG](https://www.codechef.com/problems/FRGTNLNG)
 * [CFMM](https://www.codechef.com/problems/CFMM)
 * [AFK](https://www.codechef.com/problems/AFK/)
@@ -12,3 +13,12 @@
 * [TABLET](https://www.codechef.com/problems/TABLET)
 * [CO92JUDG](https://www.codechef.com/problems/CO92JUDG)
 * [BEGGASOL](https://www.codechef.com/problems/BEGGASOL)
+* [HORSES](https://www.codechef.com/problems/HORSES)
+* [QUALPREL](https://www.codechef.com/problems/QUALPREL)
+* [SNAKPROC](https://www.codechef.com/problems/SNAKPROC)
+* [CHEALG](https://www.codechef.com/problems/CHEALG)
+* [CHCUBE](https://www.codechef.com/problems/CHCUBE)
+* [CHSFORMT](#https://www.codechef.com/START7C/problems/CHSFORMT)
+* [FODCHAIN](https://www.codechef.com/START7C/problems/FODCHAIN)
+* [CEILSUM](https://www.codechef.com/START7C/problems/CEILSUM)
+* [MAXARXOR](https://www.codechef.com/START7C/problems/MAXARXOR)
