@@ -1,5 +1,3 @@
-# SOLUTIONS TO CODECHEF PROBLEMS:
-
 ## OVERVIEW
 * Use this repository to practice competetive programming. 
 * Use the below links to read the question and then solve it on your own.
