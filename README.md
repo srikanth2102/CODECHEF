@@ -42,7 +42,7 @@
 * [HOOPS](https://www.codechef.com/LTIME96C/problems/HOOPS)
 * [QUIZPLAG](https://www.codechef.com/START4C/problems/QUIZPLAG)
 * [CORTSENT](https://www.codechef.com/START4C/problems/CORTSENT)
-* [LAZYCHF](#https://www.codechef.com/START4C/problems/LAZYCHF)
+* [LAZYCHF](https://www.codechef.com/START4C/problems/LAZYCHF)
 * [MCQ7](https://www.codechef.com/MISC2021/problems/MCQ7)
 * [MCQ2](https://www.codechef.com/MISC2021/problems/MCQ2)
 * [DN003](https://www.codechef.com/NERD2021/problems/DN003)
