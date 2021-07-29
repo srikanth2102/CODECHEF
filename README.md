@@ -53,3 +53,5 @@
 * [KTTABLE](https://www.codechef.com/problems/KTTABLE)
 * [CCHEAVEN](https://www.codechef.com/LTIME95B/problems/CCHEAVEN)
 * [BENCHP](https://www.codechef.com/LTIME95B/problems/BENCHP)
+* [TEMPLELA](https://www.codechef.com/problems/TEMPLELA)
+
