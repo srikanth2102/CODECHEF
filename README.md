@@ -54,4 +54,8 @@
 * [CCHEAVEN](https://www.codechef.com/LTIME95B/problems/CCHEAVEN)
 * [BENCHP](https://www.codechef.com/LTIME95B/problems/BENCHP)
 * [TEMPLELA](https://www.codechef.com/problems/TEMPLELA)
+* [MULARR](https://www.codechef.com/problems/MULARR)
+* [GOODLS1](https://www.codechef.com/problems/GOODLS1)
+* [TRAINWT](https://www.codechef.com/problems/TRAINWT)
+* [CHGM1](https://www.codechef.com/problems/CHGM1)
 
